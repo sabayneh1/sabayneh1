@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hey There!, I am Samande Abayneh
 
-<!--
-**sabayneh1/sabayneh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+「DevOps Engineer」
 
-Here are some ideas to get you started:
+## About Me
+I am a passionate DevOps Engineer with a focus on building and maintaining robust CI/CD pipelines and cloud infrastructure. I specialize in automating deployments and scaling applications seamlessly across various cloud environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Languages
+- AWS
+- Azure
+- Linux
+- Docker
+- Jenkins
+- Ansible
+- Terraform
+- Kubernetes
+- HELM
+- Prometheus
+- Grafana
+- AWS CodePipeline
+- Serverless frameworks like AWS Lambda
+- Azure App Services
+
+## Projects
+Here are a few of my projects. [Add links or descriptions of your projects here]
+
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/samanderabayneh/)
+- [Email](mailto:samander944@gmail.com)
+
