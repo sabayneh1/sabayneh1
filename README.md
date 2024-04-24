@@ -2,7 +2,8 @@
 
 「DevOps Engineer | Cloud Engineer | Site Reliability Engineer」
 
-![DevOps](https://example.com/path-to-your-uploaded-image.png)  <!-- Replace with the actual URL where you upload the image -->
+![image](https://github.com/sabayneh1/sabayneh1/assets/59586300/66501c5e-84e0-437f-baa7-b1636fd04a7f)
+
 
 ## About Me
 I am a dedicated professional with expertise in DevOps, Cloud Engineering, and Site Reliability. My focus is on building and maintaining scalable and efficient infrastructure, optimizing CI/CD workflows, and ensuring high availability and resilience in cloud environments.
