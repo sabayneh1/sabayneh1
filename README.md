@@ -21,9 +21,6 @@ I am a passionate DevOps Engineer with a focus on building and maintaining robus
 - Serverless frameworks like AWS Lambda
 - Azure App Services
 
-## Projects
-Here are a few of my projects. [Add links or descriptions of your projects here]
-
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/samanderabayneh/)
 - [Email](mailto:samander944@gmail.com)
