@@ -2,7 +2,9 @@
 
 「DevOps Engineer | Cloud Engineer | Site Reliability Engineer」
 
-![image](https://github.com/sabayneh1/sabayneh1/assets/59586300/66501c5e-84e0-437f-baa7-b1636fd04a7f)
+![image](https://github.com/sabayneh1/sabayneh1/assets/59586300/1f30e1a7-f0e1-4b6c-8f1c-aba613b2124b)
+
+
 
 
 ## About Me
