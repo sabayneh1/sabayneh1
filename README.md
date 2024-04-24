@@ -26,11 +26,6 @@ I am a dedicated professional with expertise in DevOps, Cloud Engineering, and S
   <img src="https://img.shields.io/badge/Azure_App_Services-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure App Services" />
 </p>
 
-## Projects
-- [AWS Serverless TerraNote](https://github.com/sabayneh1/AWS-ServerLessTerraNote) - A serverless application using AWS Lambda and Terraform.
-- [Docker Distributed System with Microservices Architecture](https://github.com/sabayneh1/docker-Distributed-System-with-Microservices-Architecture) - A project demonstrating a microservices architecture implemented with Docker.
-- [TerraAnsible Azure](https://github.com/sabayneh1/TerraAnsible-Azure) - An integration of Terraform and Ansible for managing Azure cloud infrastructure.
-
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/samanderabayneh/)
 - [Email](mailto:samander944@gmail.com)
