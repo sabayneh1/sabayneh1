@@ -1,4 +1,4 @@
-# Hey There!, I am Samande Abayneh
+# Hey There!, I am Samander Abayneh
 
 「DevOps Engineer | Cloud Engineer | Site Reliability Engineer」
 
